@@ -66,6 +66,16 @@ git clone https://github.com/GardenChan/ClawSafe.git /path/to/my-skills/clawsafe
 
 安装后 OpenClaw 会自动检测并加载 Skill，无需重启。
 
+## ⚡ 快速使用
+
+复制下面这段话发给你的 OpenClaw Agent，即可开启自检：
+
+```
+请使用 ClawSafe 技能对当前环境进行一次完整的安全自检。
+检查 OpenClaw 配置、环境变量、文件权限、网络暴露和依赖安全，
+生成包含严重级别和修复建议的完整报告。
+```
+
 ## 🚀 使用
 
 ### 通过 OpenClaw Agent 对话触发

@@ -66,6 +66,16 @@ git clone https://github.com/GardenChan/ClawSafe.git /path/to/my-skills/clawsafe
 
 OpenClaw will automatically detect and load the Skill after installation — no restart required.
 
+## ⚡ Quick Start
+
+Copy the following message and send it to your OpenClaw Agent — that's it:
+
+```
+Help me run a security self-check on the current environment using the ClawSafe skill.
+Check OpenClaw configuration, environment variables, file permissions, network exposure,
+and dependency security. Generate a full report with severity ratings and remediation suggestions.
+```
+
 ## 🚀 Usage
 
 ### Via OpenClaw Agent conversation
