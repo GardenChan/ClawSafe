@@ -5,6 +5,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [📖 English](README.md)
 
+## ⚡ 快速使用
+
+复制下面这段话发给你的 OpenClaw Agent，即可开启自检：
+
+```
+从 https://github.com/GardenChan/ClawSafe 安装 ClawSafe 技能，并对当前环境进行一次完整的安全自检。
+检查 OpenClaw 配置、环境变量、文件权限、网络暴露和依赖安全，
+生成包含严重级别和修复建议的完整报告。
+```
+
+---
+
 ClawSafe 是一个 OpenClaw Skill，通过一系列跨平台 Shell 脚本对 AI Agent 的运行环境进行安全审计，识别配置风险并生成分级报告。
 
 ```
@@ -65,16 +77,6 @@ git clone https://github.com/GardenChan/ClawSafe.git /path/to/my-skills/clawsafe
 ```
 
 安装后 OpenClaw 会自动检测并加载 Skill，无需重启。
-
-## ⚡ 快速使用
-
-复制下面这段话发给你的 OpenClaw Agent，即可开启自检：
-
-```
-请使用 ClawSafe 技能对当前环境进行一次完整的安全自检。
-检查 OpenClaw 配置、环境变量、文件权限、网络暴露和依赖安全，
-生成包含严重级别和修复建议的完整报告。
-```
 
 ## 🚀 使用
 
